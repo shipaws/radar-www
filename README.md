@@ -1,4 +1,4 @@
-# radar-www2
+# radar-www
 Front end for simple node app to view issues on github. Communicates with radar API. By default, runs on port 3000
 # Environmental variables (optional):
 - WWW_PORT: Port used for app (default:3000). Make sure the API gets the change accordingly.
